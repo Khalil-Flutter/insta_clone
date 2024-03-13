@@ -1,5 +1,7 @@
 # insta_clone
 
+![home](https://github.com/Khalil-Flutter/insta_clone/assets/139328349/d9d33cf8-6a0a-40b6-9e0e-12fa7a31917a)
+
 A new Flutter project.
 
 ## Getting Started
